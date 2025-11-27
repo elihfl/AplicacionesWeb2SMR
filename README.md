@@ -1,2 +1,3 @@
 # AplicacionesWeb2SMR
-Mi página web // Elisabeth 
+Creado por Elisabeth
+Mi página web
